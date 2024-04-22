@@ -1,0 +1,11 @@
+org\example\webbutvecklingSlutprojekt\JAXRSConfiguration.class
+servlets\UserPageServlet$Course.class
+servlets\IndexServlet.class
+servlets\LoginServlet.class
+servlets\LogoutServlet.class
+servlets\UserPageServlet.class
+org\example\webbutvecklingSlutprojekt\resources\JavaEE8Resource.class
+servlets\CoursesServlet$Course.class
+util\DatabaseConnection.class
+servlets\CoursesServlet.class
+servlets\RegistrationServlet.class
